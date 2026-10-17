@@ -43,6 +43,13 @@
         <count>1</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>Ambrosia</li>
+        <li>MedicineHerbal</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_AmbrosiaMilkshake>1</Sierra_AmbrosiaMilkshake>
     </products>
@@ -93,6 +100,13 @@
         <count>4</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>Ambrosia</li>
+        <li>MedicineHerbal</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_AmbrosiaMilkshake>4</Sierra_AmbrosiaMilkshake>
     </products>

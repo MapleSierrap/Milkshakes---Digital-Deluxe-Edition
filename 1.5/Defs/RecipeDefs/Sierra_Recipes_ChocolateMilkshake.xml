@@ -35,6 +35,12 @@
         <count>1</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>Chocolate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_ChocolateMilkshake>1</Sierra_ChocolateMilkshake>
     </products>
@@ -77,6 +83,12 @@
         <count>4</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>Chocolate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_ChocolateMilkshake>4</Sierra_ChocolateMilkshake>
     </products>
