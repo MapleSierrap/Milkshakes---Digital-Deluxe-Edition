@@ -35,6 +35,12 @@
         <count>1</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>RawBerries</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_MixedBerryMilkshake>1</Sierra_MixedBerryMilkshake>
     </products>
@@ -77,6 +83,12 @@
         <count>4</count>
       </li>
 		</ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Milk</li>
+        <li>RawBerries</li>
+      </thingDefs>
+    </fixedIngredientFilter>
     <products>
       <Sierra_MixedBerryMilkshake>4</Sierra_MixedBerryMilkshake>
     </products>
